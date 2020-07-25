@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Examenprimerparcial\ExamenPrimerparcial\ExamenPrimerparcial\obj\Debug\netcoreapp3.1\ExamenPrimerparcial.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Examenprimerparcial\ExamenPrimerparcial\ExamenPrimerparcial\obj\Debug\netcoreapp3.1\ExamenPrimerparcial.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Examenprimerparcial\ExamenPrimerparcial\ExamenPrimerparcial\obj\Debug\netcoreapp3.1\ExamenPrimerparcial.AssemblyInfo.cs
+C:\Users\admin\Documents\Examenprimerparcial\ExamenPrimerparcial\ExamenPrimerparcial\obj\Debug\netcoreapp3.1\ExamenPrimerparcial.csproj.CoreCompileInputs.cache
